@@ -27,3 +27,5 @@ jmespath.extendsFunction('foo', function (supportedTypes) {
 jmespath.search({ bar: 1 }, 'foo(bar)')
 // The result should be 100
 ```
+> [!NOTE]
+> All other functinalities are the same with the original jmespath
