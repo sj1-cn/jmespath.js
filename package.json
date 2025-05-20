@@ -25,10 +25,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/jmespath/jmespath.js"
+    "url": "https://github.com/sj1-cn/jmespath.js/"
   },
   "bugs": {
-    "url": "http://github.com/jmespath/jmespath.js/issues",
+    "url": "https: //github.com/sj1-cn/jmespath.js/issues",
     "mail": ""
   },
   "license": "Apache-2.0",
