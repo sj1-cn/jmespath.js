@@ -7,7 +7,9 @@ The package name changed from `jmespath` to `@yidata/jmespath`
 
 ## Install
 
-`npm install --save @yidata/jmespath`
+```sh
+npm install --save @yidata/jmespath
+```
 
 ## Usage
 
