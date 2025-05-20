@@ -245,7 +245,7 @@ describe('custom-functions', function() {
                     signature: [
                         { types: [supportedTypes.TYPE_NUMBER] }
                     ]
-                }
+                };
             });
             assert.strictEqual(
                 jmespath.search({ bar: 1 }, 'foo(bar)'),
