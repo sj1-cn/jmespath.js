@@ -1,13 +1,12 @@
 {
-  "name": "jmespath",
+  "name": "@yidata/jmespath",
   "description": "JMESPath implementation in javascript",
   "version": "0.16.0",
   "author": {
-    "name": "James Saryerwinnie",
-    "email": "js@jamesls.com",
-    "url": "http://jamesls.com/"
+    "name": "Dongsheng Zhao",
+    "email": "1197160272@qq.com"
   },
-  "homepage": "https://github.com/jmespath/jmespath.js",
+  "homepage": "https://github.com/sj1-cn/jmespath.js/",
   "contributors": [],
   "devDependencies": {
     "grunt": "^0.4.5",
