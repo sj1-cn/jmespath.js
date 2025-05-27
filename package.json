@@ -1,5 +1,5 @@
 {
-  "name": "@yidata/jmespath",
+  "name": "@sj1/jmespath",
   "description": "JMESPath implementation in javascript",
   "version": "0.16.0",
   "author": {
