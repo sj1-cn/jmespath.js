@@ -3,18 +3,18 @@ This is the fork of https://github.com/jmespath/jmespath.js
 
 This fork add the `extendsFunction` API. Provide the ability to override builtin-functions or extend custom functions.
 
-The package name changed from `jmespath` to `@yidata/jmespath`
+The package name changed from `jmespath` to `@sj1/jmespath`
 
 ## Install
 
 ```sh
-npm install --save @yidata/jmespath
+npm install --save @sj1/jmespath
 ```
 
 ## Usage
 
 ```js
-import jmespath from '@yidata/jmespath'
+import jmespath from '@sj1/jmespath'
 
 jmespath.extendsFunction('foo', function (supportedTypes) {
   return {
